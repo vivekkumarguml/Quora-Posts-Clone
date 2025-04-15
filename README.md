@@ -27,7 +27,8 @@ A simple CRUD blog application inspired by Quora. Built with **Node.js**, **Expr
 
 ## 📂 Project Structure
 
-![Alt Text](relative/path/to/image.png)
+![Alt Text](images/Path.png)
+
 
 ---
 
@@ -61,7 +62,8 @@ http://localhost:8080/posts
 
 
 **📸 Screenshot**
-![Alt Text](relative/path/to/image.png)
+![Alt Text](images/Landing_page.png)
+
 
 
 
