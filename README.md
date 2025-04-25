@@ -62,7 +62,7 @@ http://localhost:8080/posts
 
 
 **📸 Screenshot**
-![Alt Text](images/Landing_page.png)
+![Alt Text](images/LandingPage.png)
 
 
 
